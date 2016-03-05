@@ -1,0 +1,23 @@
+{
+  "name": "post-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acucciniello/POST-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acucciniello/POST-text/issues"
+  },
+  "homepage": "https://github.com/acucciniello/POST-text#readme",
+  "dependencies": {
+    "twilio": "^2.9.0"
+  },
+  "devDependencies": {}
+}
